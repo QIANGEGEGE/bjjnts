@@ -13,7 +13,7 @@
 
 (function () {
     'use strict';
-    var playbackRate = 2.1;
+    var playbackRate = 2.0;
     var duration2 = maxTime;
     var isqg = true;
     $(".new_demotop").html("<b>当前播放速度 "+playbackRate+" 倍,按键C加速 X减速 Z恢复原速</b>");
